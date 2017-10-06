@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>55167BF0-E42D-4FDB-94D7-B840DA15E1E6</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="21 37.3055998 15.373067 42 12.8472001 35.1210637 5.62693304 36.373067 6.87893631 29.1527999 -3.44169138e-15 26.626933 4.69440016 21 -5.77315973e-15 15.373067 6.87893631 12.8472001 5.62693304 5.62693304 12.8472001 6.87893631 15.373067 -1.16573418e-14 21 4.69440016 26.626933 -1.88737914e-14 29.1527999 6.87893631 36.373067 5.62693304 35.1210637 12.8472001 42 15.373067 37.3055998 21 42 26.626933 35.1210637 29.1527999 36.373067 36.373067 29.1527999 35.1210637 26.626933 42"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="42" height="42" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M16.2053107,19.0910588 C16.5912734,19.0910588 20.3905118,14 20.9970247,14 C21.6753038,14 25.293376,19.0910588 25.7493547,19.0910588 C26.0241671,19.0910588 29.0943648,16.3272941 30.6916028,14.8729412 C30.2014914,15.3192941 31.686704,13.7257647 31.480157,15.0837647 C31.061812,17.8335294 29.9678133,25.0262353 29.6221098,27.3 C29.6221098,27.3 29.1363744,28 28.7154037,28 L13.2550152,28 C12.8655517,28 12.3719395,27.2942353 12.3754403,27.3197647 C12.034988,25.0814118 10.9471157,17.9298824 10.5217691,15.1348235 C10.3029694,13.7002353 11.819689,15.3489412 11.2271794,14.8070588 C12.7955358,16.2424706 15.9410006,19.0910588 16.2053107,19.0910588 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21" height="14" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="support" transform="translate(-160.000000, -844.000000)" stroke="#12C48B" stroke-width="3.5">
+            <g id="spendee-premium" transform="translate(160.000000, 843.000000)">
+                <g id="Group-5" transform="translate(0.000000, 1.000000)">
+                    <use id="Star-1" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                    <use id="Fill-1" mask="url(#mask-4)" stroke-linejoin="round" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
